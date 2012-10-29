@@ -1,0 +1,14 @@
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\ApplicationIcon.png
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\Background.png
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.dll
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.pdb
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.xap
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\WP7CordovaClassLib.dll
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\anild\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\XapCacheFile.xml
